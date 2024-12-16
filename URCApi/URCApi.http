@@ -1,0 +1,6 @@
+@URCApi_HostAddress = http://localhost:5232
+
+GET {{URCApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
